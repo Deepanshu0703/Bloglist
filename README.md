@@ -5,7 +5,7 @@
 
   ```bash
   git clone https://github.com/Deepanshu0703/Bloglist
-  cd quotalog
+  cd Bloglist
   ```
 
 - Install the dependencies
