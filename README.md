@@ -1,4 +1,4 @@
-[![Netlify Status](https://blogslist.netlify.app/)](https://blogslist.netlify.app/)
+[![Netlify Status][(https://blogslist.netlify.app/)](https://blogslist.netlify.app/)
 ### Running a local copy of the app
 
 - Clone the repo
