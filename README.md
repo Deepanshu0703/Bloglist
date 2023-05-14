@@ -29,7 +29,7 @@
   npm run build
   ```
 
-### Used the api of (https://jsonplaceholder.typicode.com/)](https://jsonplaceholder.typicode.com/posts)
+### Used the api of [(https://jsonplaceholder.typicode.com/)](https://jsonplaceholder.typicode.com/posts)
 
 In which All HTTP methods are supported. You can use http or https for your requests.
 
